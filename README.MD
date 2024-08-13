@@ -2,7 +2,6 @@
 # Desafio Ateríscos
 
 Esse desafio é para desenvolver um loop com 10 linhas onde cada linha some um * obtendo o resultado abaixo:
-
 <br/>*
 <br/>**
 <br/>***
